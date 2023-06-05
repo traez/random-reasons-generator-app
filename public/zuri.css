@@ -142,6 +142,9 @@ aside div:hover{
   cursor: pointer;
   box-shadow: 0 0 20px 5px var(--neon-green);
 }
+#icon-dice {
+  width: 20px;
+}
 /* Section */
 section {
   grid-area: two;
@@ -151,6 +154,8 @@ section {
   align-items: center;
 }
 #obi-pics {
+  width: 220px;
+  border: 5px solid red;
   border-radius: 0.5rem;
 }
 /* Footer */

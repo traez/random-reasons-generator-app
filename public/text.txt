@@ -1,0 +1,14 @@
+
+You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked 
+with "use client", so they're Server Components by default.
+
+   ,-[C:\TraeZeeHardDrive\Tech\GitRepoTraez\frontendmentor.io\random-reasons-generator-app\app\page.js:1:1]
+ 1 | import { useState } from 'react';
+   :          ^^^^^^^^
+ 2 | import Header from "./components/Header";
+ 3 | import Section from "./components/Section";
+ 4 | import Footer from "./components/Footer";
+   `----
+
+Maybe one of these should be marked as a client entry with "use client":
+  ./app\page.js

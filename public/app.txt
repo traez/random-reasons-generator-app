@@ -1,0 +1,29 @@
+-----------------------------------------------------------Main
+----------------------------------------------Header 4fr
+---------------------------------Menu
+------------------------Article 
+-----------Nav
+--------H2
+--------H3
+-----------Img
+------------------------Article 
+-----------Img
+-----------Nav
+--------H2
+--------H3
+---------------------------------Aside
+----------------------Img Button
+----------------------------------------------Section 5fr
+----------------------------------------------Footer 1fr
+
+
+----------------------------------------------
+https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db
+https://github.com/itush/advice-gen
+https://tusharthe-advice.vercel.app/
+https://traez.github.io/random-reasons-oop-javascript-project/
+----------------------------------------------
+Learning Next.js as varied from React.js
+place-content: center;
+storing writings in markdown files as against javascript file
+----------------------------------------------
