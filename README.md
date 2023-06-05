@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/traez/random-reasons-generator-app](https://github.com/traez/random-reasons-generator-app)
-- Live Site URL: [https://traez.github.io/random-reasons-generator-app](https://traez.github.io/random-reasons-generator-app)
+- Live Site URL: [https://random-reasons-generator-app-traez.vercel.app/](https://random-reasons-generator-app-traez.vercel.app/)
 
 ## My process
 
